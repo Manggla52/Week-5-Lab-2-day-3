@@ -1,11 +1,11 @@
 # Week-5-Lab-2-day-3
 # Week 5 Lab 2/ day-3
 # Instructions
-[]Make a single page with:
+[x]Make a single page with:
 
-[]An H1, P, and BUTTON tags.
-[]Javascript that prompts for user input
-[]JavaScript that uses user input to write to a string template ${}.
+[x]An H1, P, and BUTTON tags.
+[x]Javascript that prompts for user input
+[x]JavaScript that uses user input to write to a string template ${}.
 []JavaScript that changes the CSS style of an element on the page.
 # Choose at least one:
   * JavaScript that does math on user input

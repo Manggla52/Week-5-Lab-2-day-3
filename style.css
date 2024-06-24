@@ -1,0 +1,12 @@
+.flex-container{
+    display: flexbox;
+    display: flex;
+    text-align: center;
+  
+}
+body{
+      border-style: solid;
+    border-width: 7px;
+    border-color: orangered;
+    border-radius: 33.3%;
+}
